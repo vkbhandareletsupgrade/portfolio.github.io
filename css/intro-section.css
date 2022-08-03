@@ -121,6 +121,7 @@
     transition: all .6s ease-in-out;
     position: relative;
     z-index: 1;
+    border-radius:50px
 }
 .intro-left .btn-intro-cta:hover{
     background-color: white;
